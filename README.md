@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://apps.apple.com/app/synaplink/id6786009969">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="44" />
-  </a>
+  <strong>🔍 Currently under review for App Store publication — coming soon.</strong>
 </p>
 
 ---

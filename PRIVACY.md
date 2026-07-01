@@ -23,4 +23,4 @@ If this policy changes in the future, the updated version will be published at t
 
 ## Contact
 
-For questions about this privacy policy, contact: [support email to be added]
+For questions about this privacy policy, contact: mm93.dev@gmail.com

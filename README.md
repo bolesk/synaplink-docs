@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="synaplink-logo.png" alt="SynapLink" width="200" />
+  <img src="synaplink-logo.png" alt="SynapLink" width="100%" />
 </p>
 
 <h1 align="center">SynapLink</h1>

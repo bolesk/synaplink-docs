@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <strong>🔍 Currently under review for App Store publication — coming soon.</strong>
+  <a href="https://apps.apple.com/us/app/synaplink/id6786009969?mt=12">
+    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83" alt="Download on the Mac App Store" />
+  </a>
 </p>
 
 ---
